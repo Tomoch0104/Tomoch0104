@@ -25,7 +25,7 @@ http://cvim.ipsj.or.jp/MIRU2021/
 
 ### SKY開発コンテストで準グランプリ
 - プロダクト：TyPro
-  - プロダクトURL：https://typro-app.vercel.app/
+  - プロダクトURL：https://typro.vercel.app/
 - チーム：今日も遅刻
 - 役割：チームリーダー，プロダクトマネジメント
 
