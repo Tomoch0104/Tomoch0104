@@ -39,6 +39,7 @@ SKY開発コンテストサイト：https://sky-terminal.com/result/
 - プロダクト：SeatAssist
   - Google playストアで公開中
 <img src="https://user-images.githubusercontent.com/80777762/143763327-144a55ed-487d-4ee9-b389-5d1425e2f4ba.png" width=600>
+
 - 役割：デザイナー，企画，設計，実装
 
 > ## others
